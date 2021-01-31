@@ -1,0 +1,16 @@
+{
+"companyName": "ggj2021",
+"productName": "Late Shift at Liminal Station",
+"productVersion": "0.1",
+"dataUrl": "lateshift.data.unityweb",
+"wasmCodeUrl": "lateshift.wasm.code.unityweb",
+"wasmFrameworkUrl": "lateshift.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
